@@ -121,4 +121,5 @@ This dashboard enables:
 
 ---
 
-**Created by Sandra Igboanugo | https://www.linkedin.com/in/sandraigboanugo/**
+**Sandra Igboanugo**
+[LinkedIn](https://www.linkedin.com/in/sandraigboanugo/)
