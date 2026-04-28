@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis – Telecom Dashboard (Power BI)
+# 📊 Customer Churn Analytics Dashboard (Power BI)
 
 A Power BI dashboard designed to identify churn drivers and support targeted retention strategies in a telecom environment.
 
